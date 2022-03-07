@@ -9,8 +9,8 @@ public class BulletScript : MonoBehaviour
         Destroy(gameObject, 2);
     }
 
-    void OnCollisionEnter2D(Collision2D collision)
+    /*void OnCollisionEnter2D(Collision2D collision)
     {
         Destroy(gameObject);
-    }
+    }*/
 }
